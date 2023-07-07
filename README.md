@@ -1,2 +1,3 @@
-# landing-page
-a basic web page with css styling and extensive flexbox use
+# anime girl wallpapers
+
+Anime Girl Wallpaper website created using extensive layers of flexbox one into each other. Anime girl img by NYLTT, downloaded from alphacoders.
